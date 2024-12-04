@@ -1,7 +1,7 @@
 import tkinter as tk
 
 # Function to handle gear shift button clicks
-def gear_shift_button_click(gear_position)
+def gear_shift_button_click(gear_position):
     print(f"Gear Shift: {gear_position}")
 
 # Function to handle throttle value changes
