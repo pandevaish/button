@@ -1,6 +1,6 @@
 import string
 
-metaslash = 1
+metaslash = 11#
 
 
 def printNames():
