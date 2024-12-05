@@ -15,7 +15,7 @@ class Nothing:
         print(value)
 
     def set(self, value):
-        self.value = value
+        self.value = value#
 
 
 def tryToDoSomething(self, value):
